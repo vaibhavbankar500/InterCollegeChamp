@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">959989427081-gdtrkkmlqvfbjh0ser875o9mh2iok8ls.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://intercollegechamp-43a16.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">959989427081</string>
+    <string name="google_api_key" translatable="false">AIzaSyChQai8LvQK_3O9xL2rwn186T0_6LM44mE</string>
+    <string name="google_app_id" translatable="false">1:959989427081:android:a2fb88e12c287454</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyChQai8LvQK_3O9xL2rwn186T0_6LM44mE</string>
+    <string name="google_storage_bucket" translatable="false">intercollegechamp-43a16.appspot.com</string>
+</resources>

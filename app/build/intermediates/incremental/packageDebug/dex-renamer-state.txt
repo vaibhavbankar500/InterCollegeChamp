@@ -1,0 +1,7 @@
+#Thu Apr 27 11:15:05 IST 2017
+base.0=/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b54924482252293ca726baed2bdafea0b644f22f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dce11e0e73f8d06ea86bcfa0e9fddc4eda76f2f/classes.dex
+base.1=/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dce11e0e73f8d06ea86bcfa0e9fddc4eda76f2f
+file.0=/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b54924482252293ca726baed2bdafea0b644f22f/classes.dex

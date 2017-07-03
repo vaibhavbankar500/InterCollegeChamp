@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:background="@drawable/list_row_selector"
+    android:padding="8dp"
+    android:layout_height="100dp"
+    android:descendantFocusability="blocksDescendants"
+    android:clickable="false">
+
+    <!-- Thumbnail Image -->
+
+    <!-- Event Title -->
+    <TextView
+        android:id="@+id/tvEventName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/thumbnail"
+        android:layout_toRightOf="@+id/thumbnail"
+        android:textSize="@dimen/title"
+        android:textStyle="bold"
+        tools:textAlignment="center" />
+
+    <!-- Rating -->
+    <TextView
+        android:id="@+id/tvEventDate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvEventName"
+        android:layout_marginTop="1dip"
+        android:layout_toRightOf="@+id/thumbnail"
+        android:textSize="@dimen/rating"
+        android:textAlignment="center" />
+
+    <!-- Genre -->
+    <TextView
+        android:id="@+id/EventVenue"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvEventDate"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/thumbnail"
+        android:textColor="@color/genre"
+        android:textSize="@dimen/genre"
+        tools:textAlignment="center" />
+
+    <!-- Release Year -->
+    <TextView
+        android:id="@+id/releaseYear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:textColor="@color/year"
+        android:textSize="@dimen/year" />
+
+    <view
+        android:layout_width="match_parent"
+        class="android.support.v4.widget.Space"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/view"
+        tools:layout_width="match_parent"
+        tools:background="@color/colorAccent"
+        android:foreground="@color/colorAccent"
+        style="@style/Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle"
+        android:layout_height="10dp" />
+
+</RelativeLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/et_firstname"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.vaibhav.intercollegechamp.MainActivity">
+
+    <Button
+        android:text="Logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_logout_main"
+        android:layout_below="@+id/bt_profile_main_act_01"
+        android:layout_alignStart="@+id/bt_profile_main_act_01"
+        android:layout_marginTop="25dp"
+        android:layout_alignEnd="@+id/bt_profile_main_act_01"
+        android:textAlignment="center" />
+
+    <Button
+        android:text="Events"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_event_main_act_01"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/bt_profile_main_act_01"
+        android:layout_marginTop="30dp"
+        android:layout_alignEnd="@+id/bt_profile_main_act_01"
+        android:layout_marginLeft="0dp"
+        android:textAlignment="center" />
+
+    <Button
+        android:text="Profile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_profile_main_act_01"
+        android:drawableStart="@android:drawable/ic_menu_crop"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/bt_event_main_act_01"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="25dp"
+        android:textAlignment="center"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:text="About Us"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bt_logout_main"
+        android:layout_alignStart="@+id/bt_logout_main"
+        android:layout_marginTop="25dp"
+        android:id="@+id/bt_aboutus"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="Logged In User"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_current_user"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="26dp"
+        android:visibility="visible" />
+
+
+</RelativeLayout>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_event_details"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.vaibhav.intercollegechamp.EventDetailsActivity">
+
+    <Button
+        android:text="Apply"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/bt_eventApply"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="Event ID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView23"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="EventID"
+        android:ems="10"
+        android:id="@+id/et_eventID"
+        android:editable="false"
+        android:textSize="18sp"
+        android:layout_below="@+id/textView23"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="12dp" />
+
+    <TextView
+        android:text="Event Name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView23"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="27dp"
+        android:id="@+id/textView24"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Event Name"
+        android:ems="10"
+        android:id="@+id/et_eventName"
+        android:editable="false"
+        android:textSize="18sp"
+        android:layout_below="@+id/textView24"
+        android:layout_alignStart="@+id/et_eventID" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="EventDate"
+        android:ems="10"
+        android:id="@+id/et_eventDate"
+        android:editable="false"
+        android:textSize="18sp"
+        android:layout_below="@+id/textView27"
+        android:layout_alignStart="@+id/et_eventName" />
+
+    <TextView
+        android:text="Event Time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_eventDate"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView28"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="EventTime"
+        android:ems="10"
+        android:id="@+id/et_eventTime"
+        android:editable="false"
+        android:textSize="18sp"
+        android:layout_below="@+id/textView28"
+        android:layout_alignStart="@+id/et_eventDate" />
+
+    <TextView
+        android:text="Last Date For Registration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_eventTime"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView29"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="EventLastDate"
+        android:ems="10"
+        android:id="@+id/et_eventLastDate"
+        android:editable="false"
+        android:textSize="18sp"
+        android:layout_below="@+id/textView29"
+        android:layout_alignStart="@+id/et_eventTime" />
+
+    <TextView
+        android:text="Event Venue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_eventLastDate"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView30"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:text="Event Coordinator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_eventVenue"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView31"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="EventCoordinator"
+        android:ems="10"
+        android:id="@+id/et_eventCoordinator"
+        android:editable="false"
+        android:textSize="18sp"
+        android:layout_below="@+id/textView31"
+        android:layout_alignStart="@+id/et_eventVenue" />
+
+    <TextView
+        android:text="Event Coordinator Number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_eventCoordinator"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView32"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="EventCoordinatorNumber"
+        android:ems="10"
+        android:id="@+id/et_eventCoordinatorNumber"
+        android:elegantTextHeight="false"
+        android:editable="false"
+        android:textSize="18sp"
+        android:layout_below="@+id/textView32"
+        android:layout_alignStart="@+id/et_eventCoordinator" />
+
+    <TextView
+        android:text="Event Rules"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_eventCoordinatorNumber"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView33"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:text="EventRules"
+        android:ems="10"
+        android:id="@+id/et_eventRules"
+        android:textSize="18sp"
+        android:editable="false"
+        android:layout_below="@+id/textView33"
+        android:layout_alignStart="@+id/et_eventCoordinatorNumber" />
+
+    <TextView
+        android:text="Event Date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView27"
+        android:layout_below="@+id/et_eventName"
+        android:layout_alignParentStart="true"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="EventVenue"
+        android:ems="10"
+        android:id="@+id/et_eventVenue"
+        android:editable="false"
+        android:textSize="18sp"
+        android:layout_below="@+id/textView30"
+        android:layout_alignStart="@+id/et_eventLastDate" />
+</RelativeLayout>

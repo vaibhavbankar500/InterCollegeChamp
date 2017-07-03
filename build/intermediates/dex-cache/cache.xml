@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.1_c06cae3ab828c06c21a9cf51a81a793b87479a85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_413a725b65ac0495340212defa048fb8c5560327/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.1_24213a818169ac2b9130e4e21ff11e15bda8173e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.1_b8d23eb6c96024ff64a00816177aa9f21392c2cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_d20b08092bc651ba12a3aa52b7c68c9bef66c72e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_ab0f33acd28b24b5ec1e55c55faf790941c344cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/libs/baasbox-android-0.7.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b877c61c6c790cb0639e978d52aa2b9e74d9880">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/2/baasbox-android-0.7.3_3af520ced8a5f7fe06f134cb43dc08c64fc184fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_794cf32ca069405b535b60e051c8db5cf5269949/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_8e475a038215dbcf6783a90e6baaebf842968db0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_59ffe21eff9f918ab7c049102d03583c77ccb886/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_9cb1560422d37b9eceed9d00eb5de5d723624d26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_83ce7c90765ae53dca18e1eb336e497fced9b21e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_9cb8ceb042632452e3a0374c91ba19fe4b4ebf84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_c2c0f95febb7f1d1f17020d7dea86df567909158/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.1_5231c72e3da7167422d89a102e5d1aa40832b494/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.1_ab04e64cb30520a3dea601e5fdf6379840bcda4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_c5037df8af5cfa532d185430f55e6e1e7d7679f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.1_11544679a356dfa94130cd1c28078d8b1e357bf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.1_2d1cbc6ec51cc748803e5062c7feea2c1623d2a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.1_4d909f1e11d96026c2137c5062aa5cbb1b719233/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta4_ac8f8daabed46adca3151e2aef3a5468912047a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c1c44672010b6847f3744ec3702624d8d16c240">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-gridlayout-v7-25.1.1_a731427f112baaaf976ba8daee1b59120e023705/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_3f4a7dee04431dad9b710094986647f11ecefd65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d3cef9fb60749dc98a3d3e7055c8915dd8d37e">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dce11e0e73f8d06ea86bcfa0e9fddc4eda76f2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.1_edf1173d676fbeb2c640211f76346dd4658e2ac7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_da8ae489fae1f2a7281fc8f2414fdd01ea75e90c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.1_4e65271d00fd59ae698d50410b41a2b1b752e212/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_e6fa834436240c6ca5b14b90b57bb71efd85957a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_37af70756eb839ab9a606e7ff19b13febf5df032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.1_89ac5c650cbac703c9d9c71bc5e2ed12382502dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.1_8ecb70f9fe5e9028f4edacb363cf25b6a424f9df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a72325063bb27161e0b5bdff435d678b717c4a">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b54924482252293ca726baed2bdafea0b644f22f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_4a26544888bb25de639444dd64af017f1a149ad8/classes.dex" />
+    </item>
+
+</items>

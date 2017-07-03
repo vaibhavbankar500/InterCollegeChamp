@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "959989427081",
+    "firebase_url": "https://intercollegechamp-43a16.firebaseio.com",
+    "project_id": "intercollegechamp-43a16",
+    "storage_bucket": "intercollegechamp-43a16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959989427081:android:a2fb88e12c287454",
+        "android_client_info": {
+          "package_name": "com.example.vaibhav.intercollegechamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959989427081-k705ie6htv616n1j94ckvouc3lfmtkjh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vaibhav.intercollegechamp",
+            "certificate_hash": "1b5ca78c8b5b5ae699fa61dc9b3496a638653d50"
+          }
+        },
+        {
+          "client_id": "959989427081-gdtrkkmlqvfbjh0ser875o9mh2iok8ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQai8LvQK_3O9xL2rwn186T0_6LM44mE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959989427081-gdtrkkmlqvfbjh0ser875o9mh2iok8ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

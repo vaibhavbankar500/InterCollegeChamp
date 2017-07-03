@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/res/merged/debug/menu/nav_draw.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/src/main/res/menu/nav_draw.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/res/merged/debug/menu/activity_nav_draw_drawer.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/src/main/res/menu/activity_nav_draw_drawer.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/res/merged/debug/menu/activity_nav_drawer.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/src/main/res/menu/activity_nav_drawer.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/build/intermediates/res/merged/debug/menu/nav.xml",
+        "source": "/home/vaibhav/AndroidStudioProjects/InterCollegeChamp/app/src/main/res/menu/nav.xml"
+    }
+]

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_student_sign_up"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.vaibhav.intercollegechamp.StudentSignUpActivity">
+
+
+
+    <TextView
+        android:text="Student Sign Up"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView5"
+        android:layout_alignParentEnd="true" />
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="First Name"
+        android:ems="10"
+        android:layout_marginRight="200dp"
+        android:id="@+id/etFirstName"
+        android:layout_below="@+id/textView5"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="Last Name"
+        android:layout_marginLeft="200dp"
+        android:ems="10"
+        android:id="@+id/etLastName"
+        android:layout_alignBaseline="@+id/etFirstName"
+        android:layout_alignBottom="@+id/etFirstName"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="College Name"
+        android:ems="10"
+        android:id="@+id/etCollegeName"
+        android:layout_marginTop="11dp"
+        android:layout_below="@+id/etLastName"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="Department"
+        android:ems="10"
+        android:id="@+id/etDept"
+        android:layout_marginTop="12dp"
+        android:layout_below="@+id/etCollegeName"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:hint="Class"
+        android:ems="10"
+        android:id="@+id/etClass"
+        android:layout_below="@+id/etDept"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:hint="Email"
+        android:ems="10"
+        android:id="@+id/etEmail"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="Password"
+        android:ems="10"
+        android:id="@+id/etPassword"
+        android:layout_marginTop="11dp"
+        android:layout_below="@+id/etEmail"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:hint="Mobile Number"
+        android:ems="10"
+        android:id="@+id/etMobile"
+        android:layout_marginTop="11dp"
+        android:layout_below="@+id/etPassword"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+
+    <Button
+        android:text="Sign Up Now"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:background="@color/colorPrimary"
+        android:id="@+id/signupButton"
+        android:layout_alignParentEnd="true" />
+
+
+
+    <RadioGroup
+        android:id="@+id/radioSex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etMobile"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etMobile"
+        android:layout_alignParentStart="true">
+
+        <RadioButton
+                android:text="Male"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rd_student_signup_M_01"
+                android:layout_below="@+id/etMobile"
+                android:layout_alignParentStart="true"
+                android:layout_marginTop="16dp"
+                android:backgroundTint="@color/colorPrimary"
+                app:buttonTint="@color/colorPrimary"
+            android:visibility="invisible" />
+
+        <RadioButton
+           android:text="Female"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:id="@+id/rd_student_signup_F_02"
+            android:layout_marginStart="51dp"
+            android:layout_alignBaseline="@+id/rd_student_signup_M_01"
+            android:layout_alignBottom="@+id/rd_student_signup_M_01"
+            android:layout_toEndOf="@+id/rd_student_signup_M_01"
+            android:visibility="invisible" />
+
+    </RelativeLayout>
+
+    </RadioGroup>
+
+
+
+
+</RelativeLayout>
